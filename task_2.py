@@ -1,4 +1,3 @@
-'''Task 2'''
 f=input('Enter the first name: ')
 l=input('Enter the last name: ')
 greet = '! welcome to the python program.'
